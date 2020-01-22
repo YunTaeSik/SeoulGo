@@ -22,7 +22,8 @@ SeoulGo Android App 개발
 **수상**  
 **2016 함께서울 앱 공모전 참여(순위 = 30위)**  
 
-## 위치기반서비스
+## 위치기반서비스  
+덕수궁 퍼즐 서비스 예제  
 ```java
 private void DeoksugungLocation(double latitude, double longitude) {
         ArrayList<Integer> insideDeoksugung_List = new ArrayList<>();
