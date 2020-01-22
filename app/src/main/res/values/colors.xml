@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="theme">#e9a6a6</color>
+    <color name="theme_intro">#fae019</color>
+    <color name="theme_text">#451e1e</color>
+    <color name="theme2">#e9a6a6</color>
+    <color name="theme3">#555555</color>
+    <color name="toplayout_one_color">#5fe4db</color>
+    <color name="toplayout_two_color">#7c5ecc</color>
+    <color name="toplayout_three_color">#FF4081</color>
+    <color name="color_iceblue">#27aae1</color>
+    <color name="progress_background">#ffffff</color>
+    <color name="progress_foreground_one">#edf436</color>
+    <color name="progress_foreground_two">#3aedf4</color>
+    <color name="progress_foreground_one_t">#edf436</color>
+    <color name="progress_foreground_two_t">#3aedf4</color>
+    <color name="grid_view_backgroud">#ECEADD</color>
+    <color name="camera_text_color">#777777</color>
+
+    <array name="alliancecolor">
+        <item>#EF404A</item>
+        <item>#F2728C</item>
+        <item>#FFD400</item>
+        <item>#80B463</item>
+        <item>#27AAE1</item>
+    </array>
+</resources>

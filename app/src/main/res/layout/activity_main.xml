@@ -1,0 +1,136 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/menuIcon"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#ffffff"
+        android:layoutAnimation="@anim/layout_animation_control"
+        android:orientation="horizontal"
+        android:persistentDrawingCache="animation|scrolling|all">
+
+        <Button
+            android:id="@+id/Page1Btn"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/tab_selector"
+            android:text="@string/btn_collection"
+            android:textColor="@drawable/tab_text_selector"
+            android:textSize="13sp" />
+
+        <Button
+            android:id="@+id/Page2Btn"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/tab_selector"
+            android:text="@string/btn_home"
+            android:textColor="@drawable/tab_text_selector"
+            android:textSize="13sp" />
+
+        <Button
+            android:id="@+id/Page3Btn"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/tab_selector"
+            android:text="@string/btn_setting"
+            android:textColor="@drawable/tab_text_selector"
+            android:textSize="13sp" />
+    </LinearLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_below="@+id/menuIcon"
+        android:layout_weight="9"
+        android:background="#ffffff"
+       />
+
+    <LinearLayout
+        android:id="@+id/main_underbar"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center">
+
+            <ImageButton
+                android:id="@+id/setting_btn1"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:background="@drawable/info" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center">
+
+            <ImageButton
+                android:id="@+id/setting_btn2"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:background="@drawable/ticket_image" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center">
+
+            <ImageButton
+                android:id="@+id/setting_btn3"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:background="@drawable/lan_image" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/shared_btn_layout"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:visibility="gone">
+
+            <ImageButton
+                android:id="@+id/setting_btn4"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:background="@drawable/shared_image" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/refresh_btn_layout"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:visibility="gone">
+
+            <ImageButton
+                android:id="@+id/setting_btn5"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:background="@drawable/refresh_image" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,478 @@
+<resources>
+    <string name="app_name">SeoulGo</string>
+    <string name="btn_collection">"Collection"</string>
+    <string name="btn_home">"Home"</string>
+    <string name="btn_setting">"Photozone"</string>
+
+    <string name="info_text">"Information"</string>
+    <string name="language_text">"language"</string>
+    <string name="shared_text">"sharing"</string>
+    <string name="coupon_text">"Coupon"</string>
+
+    <string name="place_one">"Gyeongbokgung"</string>
+    <string name="place_two">"Changgyeonggung"</string>
+    <string name="place_three">"Deoksugung"</string>
+    <string name="alliance_coupon">"Partnership"</string>
+    <string name="cancle_text">"Cancle"</string>
+    <string name="getcoupon_text">"Get coupons"</string>
+    <string name="gone_text">"Close"</string>
+    <string name="gps_dialog_title_text">"Use Location"</string>
+    <string name="language_select_text">"Language choice"</string>
+    <string name="ok_text">"Consent"</string>
+    <string name="place_four_button">"Time"</string>
+    <string name="place_one_button">"Start"</string>
+    <string name="place_three_button">"Price"</string>
+    <string name="place_two_button">"Location"</string>
+    <string name="possesion_coupon">"Have coupon"</string>
+    <string name="processcoupon_text">"Ongoing"</string>
+    <string name="use_coupon_text">"Use coupon"</string>
+    <string name="use_text">"Use"</string>
+    <string name="info_caution">"Precaution"</string>
+    <string name="info_caution_ex">"Use precaution"</string>
+    <string name="info_mail">"Enquiry"</string>
+    <string name="info_mail_ex">"Improvement,Inconvenience enquiry"</string>
+    <string name="info_mail_mail">"Send an email"</string>
+    <string name="info_name">"Information"</string>
+    <string name="info_using">"Instructions"</string>
+    <string name="info_using_ex">"Function, coupon instructions"</string>
+    <string name="viewpager_one_text">"The picture that recommended by the Gyeongbokgung"</string>
+    <string name="viewpager_three_text">"The picture that recommended by the Deoksugung"</string>
+    <string name="viewpager_two_text">"The picture that recommended by the Changgyeonggung"</string>
+    <string name="viewpager_content_one">"In front of Gyeongbokgung"</string>
+    <string name="viewpager_content_two">"In front of Deoksugung"</string>
+    <string name="viewpager_content_three">"In front of Changgyeonggung"</string>
+    <string name="place_two_content">"Welcome to Changgyeonggung"</string>
+    <string name="place_three_content">"Welcome to Deoksugung"</string>
+    <string name="place_one_content">"Welcome to Gyeongbokgung"</string>
+
+
+    <string name="place_one_explain_time">"\n"
+                    "※Every Tuesday is Dayoff.\n"
+                    "\n"
+                    "* Jan ~ Feb\t: 09:00~17:00\n  (EnterClose is 16:00)\n"
+                    "* Mar ~ May\t: 09:00~18:00\n  (EnterClose is 17:00)\n"
+                    "* June ~ Aug\t: 09:00~18:30\n  (EnterClose is 17:30)\n"
+                    "* Sep ~ Oct\t: 09:00~18:00\n  (EnterClose is 17:00)\n"
+                    "* Nov ~ Dec\t: 09:00~17:00\n  (EnterClose is 16:00)\n"
+                    "\n"
+                    "*The viewing time and in accordance with \nthe situation there can be adjusted.\n"</string>
+    <string name="place_two_explain_time">"\n"
+        "※Every Monday is Dayoff\n"
+        "* Feb ~ May\t : 09:00~18:00\n"
+        " * June ~ Aug\t : 09:00~18:30\n"
+        "* Sep ~ Oct\t: 09:00~18:00\n"
+        "* Nov ~ Jan\t: 09:00~17:30\n"</string>
+    <string name="place_three_explain_time">
+                            "\n"
+                    "※Every Monday is Dayoff.\n"
+                    "the ticket and entrancetime 09:00 ~ 20:00\n"
+                    "exit time\t09:00 ~ 21:00\n"
+    </string>
+
+    <string name="place_one_explain_price">"\n"
+            "Adults(19years~64years) - 3,000KRW\n"
+            "Adults(10person over) - 2,400KRW\n"
+            "Child(7years~18years) - 1,500KRW\n"
+            "Child(10person over) - 1,200KRW\n"
+            "\n"
+                        "* Free *\n"
+               " * under 6 years of age\n"
+               " * over 65 years of age\n"
+               " * wear hanbok\n"
+               " * last Wednesday of each month\n"
+               "    [Culture of day]
+                            </string>
+    <string name="place_two_explain_price">"\n"
+            "Adults(19years~64years) - 1,000KRW\n"
+            "Adults(10person over) - 800KRW\n"
+            "Child(7years~18years) - 500KRW\n"
+            "Child(10person over) - 400KRW\n"
+            "\n"
+                        "* Free *\n"
+               " * under 6 years of age\n"
+               " * over 65 years of age\n"
+               " * wear hanbok\n"
+                            </string>
+    <string name="place_three_explain_price">"\n"
+            "Adults(19years over) - 1,000KRW\n"
+            "Adults(10person over) - 800KRW\n"
+            "Child(7years~18years) - 500KRW\n"
+            "Child(10person over) - 400KRW\n"
+            "\n"
+                        "* Free *\n"
+               " * under 6 years of age\n"
+               " * over 65 years of age\n"
+               " * wear hanbok\n"
+                            </string>
+    <string name="developer_four">"Developer-Big"</string>
+    <string name="developer_one">"Developer-Goast"</string>
+    <string name="developer_three">"Developer-Cameraman"</string>
+    <string name="developer_two">"Developer- Brat"</string>
+    <string name="ch_language">"Chinese"</string>
+    <string name="collection_finish">"finished all the puzzle pieces! \n Do you want to go to receive coupons location?"</string>
+    <string name="gps_dialog_content_text">"It tries to use your current location to the correct location of the service \'Seoul Go\' \n Do you agree?"</string>
+    <string name="hint_text">"Click for help comes"</string>
+    <string name="info_caution_explain">"Precautions\n"
+                            "\n1. If you have to press the cell phone manbo one piece and conflicts with people.\n"
+                            "2. The coupon can be used only on whether the issue surrounding attractions.\n"
+                            "3. The coupons have not write in another place.\n"
+        "</string>
+    <string name="info_use_explain">"How to use the function\n"
+                            "\n1. Press the attractions pictures users want to go.\n"
+                            "2. Verify the location, rates, hours.\n"
+                            "3. Arriving in spots, press the 'Start' button.\n"
+                            "4. Go to the place chosen at random to collect the pieces.\n"
+                            "5. take pictures in the photo zone,Leave your memories\n"
+                            "6. collect all the pieces, and then Go to the collection menu and press the cupon button\n"
+                            "\nCoupon usage\n"
+                            "\n1. Go to the menu and check the coupons you have.\n"
+                            "2. Go to affiliate to see if you can get a discount for some place.\n"
+                            "3. After selecting a place to go get a discount.\n"
+
+
+
+    </string>
+    <string name="jp_language">"Japanese"</string>
+    <string name="ko_language">"Korean"</string>
+    <string name="move_text">"move"</string>
+    <string name="noti_text">"Go to get"</string>
+    <string name="noti_tilte">"Near the puzzle pieces!"</string>
+    <string name="permit_text">"The need permission, you can use the services"</string>
+    <string name="photo_expand_text">"Read More"</string>
+    <string name="place_four">"Changdeokgung"</string>
+    <string name="place_four_content">"Welcome to Changdeok Palace."</string>
+    <string name="un_language">"English"</string>
+    <string name="use_coupon_content">"Would you like to use your coupons?\n Click OK, then click agree button "</string>
+    <string name="viewpager_content_four">"Changdeokgung front"</string>
+    <string name="viewpager_four_text">"The picture that recommended by the Changdeokgung"</string>
+
+    <string name="gyeongbokgung_explain"> "Main palace: center of power, politics, economy, and culture
+        Gyeongbokgung (Palace Greatly Blessed by Heaven) was built in 1395, three years after the Joseon Dynasty was founded, and it served as the main palace for more than five hundred years.
+        With Mount Bugaksan to its rear and the Street of Six Ministries (today’s Sejongno) outside Gwanghwamun Gate, the main entrance to the palace, Gyeongbokgung stood in the heart of the capital city.
+        It was steadily expanded over nearly three hundred years before being reduced to ashes during the Japanese invasion of 1592.
+        For the next 276 years the palace grounds were left derelict until finally being rebuilt in 1867 under the leadership of Prince Regent Heungseon Daewongun.
+        The restoration was completed on a grand scale, with 500 buildings crowded together in a labyrinthine arrangement.
+        Within the palace walls were the Outer Court (oejeon), offices for the king and state officials, and the Inner Court (naejeon), which included living quarters for the royal family as well as gardens for leisure and play.
+        On its extensive premises were other palaces, large and small, including Queen’s residence (Junggung) and the Crown prince’s residence (Donggung).
+        As Gyeongbokgung was the symbol of national sovereignty, it was demolished during the Japanese occupation. In 1911, ownership of land at the palace was transferred to the Japanese Government-General.
+        In 1915, on the pretext of holding an exhibition, more than 90 percent of the palace buildings were torn down.
+        Following the exhibition the Japanese leveled whatever still remained.
+        The Japanese also built their colonial headquarters, the Government-General building, directly in front of Gyeongbokgung.
+        Restoration of Gyeongbokgung to its former glory has been ongoing since 1990. The colonial Government-General building was removed, and Heungnyemun Gate was restored to its original state.
+        The inner Court and Crown prince’s residence were completed." </string>
+
+    <string name="deoksugung_explain">
+        Deoksugung served as the main palace of the short-lived Great Han Empire (1897~1910).
+        It was originally the residence of Prince Wolsan, the elder brother of King Seongjong (r. 1469~1494).
+        After the palaces in the capital were destroyed by fire during the Japanese invasion of 1592, King Seonjo (r. 1567~1608)
+        moved here and used it as his temporary palace. In 1611, the palace was named Gyeongungung by his
+        successor, King Gwanghaegun. It became a secondary palace after he moved to Changdeokgung Palace in 1615.
+    </string>
+
+    <string name="changgyeonggung_explain">"A glimpse into royal life of perfect harmony with natural beauty
+        King Seongjong, the 9th monarch of Joseon, built Changgyeonggung to the east of Changdeokgung for three dowager queens when Changdeokgung became too crowded. Construction began in 1483 and was ﬁnished in 1484.
+        These two palaces shared the same grounds and were together known as Donggwol, the East Palace.
+        The history of the Changgyeonggung site dates to the Goryeo Dynasty (918-1392). Upon assuming the throne, King Sejong (1418-1450) built Suganggung Palace in 1418 for his father, King Taejong, on the site of a secondary Goryeo palace.
+        Suganggung was expanded and renamed Changgyeonggung. However, it did not see much use until after the Japanese invasion of 1592, when the main palace, Gyeongbokgung, was destroyed.
+        Changgyeonggung then began to see frequent use as a detached palace, while Changdeokgung became the main palace.
+        As a general rule, in East Asia the main hall of a palace was built facing s"</string>
+
+    <string name="changdeokgung_explain">"The most unique Korean palace in harmony with the landscape
+        Changdeokgung was built as a secondary palace of the Joseon Dynasty in 1405, during King Taejong’s reign.
+        Although it was originally secondary to Gyeongbokgung, Changdeokgung was served as the residence for many kings and later it became the main palace.
+        After all palaces in Seoul were destroyed during the Japanese invasion (1592-1598), Gyeongbokgung had been left in ruins.
+        Changdeokgung, however, was reconstructed in 1610 and served as the main palace for about 270 years, until Gyeongbokgung was finally rebuilt in 1868."
+   </string>
+
+    <string-array name="gyeongbokgung_location">
+        <item>"Gwanghwamun"</item>
+        <item>"Geunjeongmun"</item>
+        <item>"Geunjeongjeon"</item>
+        <item>"Sujeongjeon"</item>
+        <item>"Gyeonghoeru"</item>
+        <item>"Sajeongjeon"</item>
+        <item>"Jaseondang"</item>
+        <item>"Naesojubang"</item>
+        <item>"Gangnyeongjeon"</item>
+        <item>"Gyotaejeon"</item>
+        <item>"Jagyeongjeon"</item>
+        <item>"Hyangwonjeong"</item>
+        <item>"Geoncheonggung"</item>
+        <item>"Jibokjae"</item>
+        <item>"Taewonjeon"</item>
+    </string-array>
+    <string-array name="gyeongbokgung_location_explain">
+        <item>"Four gates tell of the dynasty’s glory Gwanghwamun, the main gate, has three entrances and a broad, two-story pavilion. Watchtowers once stood at the southeast and southwest corners of the palace wall. The southwest tower was demolished during the Japanese occupation, while the southeast tower, Dong-sipjagak, eventually has become isolated in the middle of a busy street intersection, where it remains today."
+        </item>
+        <item>"A door to go to Geunjeongmun"</item>
+        <item>"Core area of the palace restored to its original magnificence Geunjeongjeon is the main throne hall of Gyeongbokgung. The name means that ‘all affairs will be properly managed if Your Majesty demonstrate diligence.’ The king’s affairs of state, including meetings, receptions with foreign envoys, and most importantly, the coronation ceremony, were all conducted here."</item>
+        <item>"Government offices inside the palace Of all these buildings, Jiphyeonjeon, the Hall of Worthies, is the only one remaining. It is where Hangeul, the Korean alphabet, was invented under King Sejong. Rebuilt in 1867, its name was later changed to Sujeongjeon. It served as the cabinet office during the Reform Movement of 1894. Nearly all the buildings of Gwolnaegaksa were removed in 1915 by the Japanese to make way for an expo, and the area remains almost vacant today. "</item>
+        <item>"The apex of architectural beauty Gyeonghoeru was where the king threw formal banquets for foreign envoys. The king and his party went up to Gyeonghoeru to enjoy a sweeping view of the palace and Mount Inwangsan. Originally a small pavilion, Gyeonghoeru was greatly expanded in 1412 under King Taejong"</item>
+        <item>"Where the king managed routine state affairs Sajeongjeon means ‘hall where the king should think deeply before deciding what is right or wrong.’ Here the king held daily morning meetings with his officials, and presided over seminars on state affairs. To the east and west are Manchunjeon and Cheonchujeon, two auxiliary buildings with heated floors for the king’s comfort during the cold seasons. "</item>
+        <item>"Donggung was the residence for the Crown prince and the Crown princess. The crown prince was regarded as a rising sun, which is why his living quarters were built to the east of the king’s palace. Jaseondang in the west served as the royal couple’s residence;"</item>
+        <item>"Place to raise a sura of the kings and queens of the Joseon era. Body is composed of rooms and windows, and it surrounds the servants' quarters consisting of blue, room, kitchen, barn. There is a danger of fire in the kitchen are nine places that catered to Sura of the king and queen were installed at the King of precipitation fell. Naesojubang and Whaesojubang kitchen to cater for banquets gungjang food catered one sense."</item>
+        <item>"A glimpse into everyday life in the royal household Gangnyeongjeon was named after the third of the Five Blessings (longevity, wealth, health, love of virtue, peaceful death) and served as the king’s living quarters."</item>
+        <item>" Gyotaejeon is presumed to have been built in 1440. Gyotaejeon was the queen’s main residence, where she oversaw the efficient operation of the palatial household."</item>
+        <item>" 'Jagyeong' means ‘wish for much happiness for senior royal ladies’ – the king’s mother and grandmother."</item>
+        <item>"King Gojong’s palace within a palace In the rear garden of the concubines’ quarters is a square pond named Hyangwonji, in the center of which lies an islet. A pavilion named Hyangwonjeong stands on this islet. While Gyeonghoeru feels magnificent and masculine, Hyangwonjeong appears intimate and feminine. A bridge once led north to Geoncheonggung, but it was destroyed during the Korean War and a new bridge was built to the south."</item>
+        <item>" Geoncheonggung included separate living quarters for the king and the queen, as well as a study. It was here that the tragedy struck in 1895, when Queen Myeongseong was assassinated by the Japanese."</item>
+        <item>"Harmony of Qing Chinese and traditional Korean styles Jibokjae and Hyeopgildang Pavilion were moved from Changdeokgung to an area west of Geoncheonggung, King Gojong’s residence, and were used as a library and a reception hall for foreign envoys. Jibokjae’s side walls were made of brick in the Qing Chinese style."</item>
+        <item>"King Gojong strives to secure legitimacy for his rule King Gojong was not born a prince to the preceding king. For this reason he and his father, Price Regent Heungseon Daewongun, constantly had to wrangle with questions over the legitimacy of King Gojong’s accession to the throne. As part of King Gojong’s efforts to secure the legitimacy of his reign, he built Taewon-jeon Shrine to house the portraits of preceding kings. Taewonjeon is presumed to have been built in 1868 to house the portrait of King Taejo, founder of the Joseon Dynasty. Later it was used as a royal coffin hall for deceased queens."</item>
+    </string-array>
+
+    <string-array name="changgyeonggung_location">
+        <item>"Honghwamun"</item>
+        <item>"Myeongjeongjeon"</item>
+        <item>"Munjeongjeon"</item>
+        <item>"Sungmundang"</item>
+        <item>"Tongmyeongjeon"</item>
+        <item>"Gyeongchunjeon"</item>
+        <item>"Hwangyeongjeon"</item>
+        <item>"Jipbokheon"</item>
+        <item>"Chundangji"</item>
+        <item>"GrandGreenhouse"</item>
+        <item>"WolgeunmunGate"</item>
+        <item>"Okcheongyo"</item>
+        <item>"Hamyangmon"</item>
+        <item>"Poonggidae"</item>
+        <item>"Yanghwadang"</item>
+    </string-array>
+
+    <string-array name="changgyeonggung_location_explain">
+        <item>"Main Gate: Projecting the Dignity of the Royal Palace Honghwamun, the palace’s main gate, faces eastward like the central part of the palace. First built in 1484, it burned down during the Japanese invasion of 1592 and was rebuilt in 1616. A bell pavilion (Sipjagak) was built on either side of this twotiered wooden gate. As you pass through the gate, Okcheongyo Bridge comes into view. "</item>
+        <item>"Main hall of both dignity and practicality Myeongjeongjeon is the main hall of the palace, where state affairs such as royal coronations, royal weddings, royal banquets were held. First built in 1484, it was burned down during the Japanese invasion of 1592. Rebuilt in 1616, it is the oldest main hall extant of all the palaces in Seoul. It is smaller than the two-story main halls of Gyeongbokgung and Changdeokgung. This is because Changgyeonggung was originally built as living quarters, especially for dowager queens, rather than as a throne hall."</item>
+        <item>"Managing routine state affairs Munjeongjeon is a council hall where the king dealt with routine state affairs. Unlike the throne hall, which faces east, this building faces south. Such a palace layout with a secondary structure facing a different direction than a throne hall is highly unusual"</item>
+        <item>"Academic exchanges between king and his subjects made here At Sungmundang Hall, the king threw banquets to discuss state affairs and classical literature. It is believed to have been built under King Gwanghaegun when Changgyeonggung was ﬁrst rebuilt. "</item>
+        <item>"Graceful heart of the inner court Situated in the quietest part of the inner court, Tongmyeongjeon was the queen’s bed chamber. Because it was the most important residence in the inner court, Tongmyeong- jeon was built on an elevated stone terrace (woldae). "</item>
+        <item>"Inner court, host to births and deaths of royal family Gyeongchunjeon was built in 1483 under King Seongjong as sleeping quarters for the Dowager Queen. The fact that future kings Jeongjo and Heonjong were born and many queens passed away here suggests that Gyeongchunjeon was used by queens and crown princesses, in addition to dowager queens. To commemorate his own birth here, King Jeongjo himself wrote a plaque meaning ‘Birth Hall’ and hung it above the entrance. Hwangyeongjeon, on the other hand, was a residence for kings and princes. First built in 1483, both buildings were destroyed by ﬁre and restored three times. The present buildings were built in 1834. "</item>
+        <item>"Inner court, host to births and deaths of royal family Gyeongchunjeon was built in 1483 under King Seongjong as sleeping quarters for the Dowager Queen. The fact that future kings Jeongjo and Heonjong were born and many queens passed away here suggests that Gyeongchunjeon was used by queens and crown princesses, in addition to dowager queens. To commemorate his own birth here, King Jeongjo himself wrote a plaque meaning ‘Birth Hall’ and hung it above the entrance. Hwangyeongjeon, on the other hand, was a residence for kings and princes. First built in 1483, both buildings were destroyed by ﬁre and restored three times. The present buildings were built in 1834. "</item>
+        <item>"Favored Concubine Bak gave birth to King Jeongjo’s son (the future King Sunjo). King Jeongjo frequently visited Jipbokheon and used nearby Yeongchunheon as his  study, where he read books or handled routine affairs of state."</item>
+        <item>"Where the king himself engaged in farming Chundangji Pond as we see it today consists of one large and one small pond. The smaller pond in the back is the original one, created during the Joseon Dynasty. "</item>
+        <item>"Changgyeonggung's GrandGreenhouse"</item>
+        <item>"King  Jeongjo ordered the construction of a gate in the wall of Changgyeonggung and named it Wolgeunmun. It served as passage to a shrine that Jeongjo built for his father, the Crown Prince Sado. Sado had been cruelly put to death by his father, and Jeongjo changed his posthumous name to Crown Prince Jangheon. "</item>
+        <item>"Okcheongyo is tresure No. 386."</item>
+        <item>"Changdeok Palace that passes through the door."</item>
+        <item>"Poonggidae is wander and to gauge the strength of the wind flags."</item>
+        <item>"Yanghwadang was used as the guest receiving hall for the inner court, but King Injo stayed here when he returned from his refuge at Namhansanseong Fortress during the Manchu invasion of 1636. Both buildings as seen today were built in 1834."</item>
+    </string-array>
+
+    <string-array name="deoksugung_location">
+        <item>"Daehanmun"</item>
+        <item>"Junghwamun"</item>
+        <item>"Jeukjodang"</item>
+        <item>"Hamnyeongjeon"</item>
+        <item>"Deokhongjeon"</item>
+        <item>"Jeonggwanheon"</item>
+        <item>"Seokjojeon"</item>
+        <item>"Seogeodang"</item>
+        <item>"Junmyeongdang"</item>
+        <item>"Junghwajeon"</item>
+        <item>"Woonganmun"</item>
+        <item>"Wolgokmun"</item>
+        <item>"Gwangmyeongmun"</item>
+        <item>"SeokjojeonMuseum"</item>
+        <item>"Fountain"</item>
+    </string-array>
+
+    <string-array name="deoksugung_location_explain">
+        <item>"Great Han Empire opens its doors to the modern world The main gate of Gyeongungung was originally Inhwamun, the south gate. When the area to the east of Gyeongungung developed into the new center of the capital, Daeanmun, the east gate, took over the function as the main gate. Daean of Daeanmun means 'be in great comfort'. The gate was rebuilt in 1906 when it was renamed as Daehanmun. Daehan of Daehanmun means 'Hanyang (today’s Seoul) will prosper'. Message of framework-raising ceremony of Daehanmun reads, "Seeing the Yellow Sea clearer, we are receiving the luck of propitiousness of the times. Therefore the nation will prosper forever and this gate is situated on the site to be the capital of Hanyang to last countless years to come, and thus this special name is given to this gate." This message contains the wish that the Great Han Empire newly born with Hanyang, its capital will prosper forever. Just inside the gate, visitors cross Geumcheongyo Bridge, which was excavated and restored in 1986."</item>
+        <item>"Door to enter the junghwajeon"</item>
+        <item>"The original part of Gyeongungung It was during the Japanese invasion of 1592 when King Seonjo (1567~1608) adopted Jeukjodang as his temporary residence that Gyeongungung (Deoksugung) first became home to a Joseon king. Jeukjodang served as the main throne hall from 1897 when King Gojong left the Russian legation and returned to Gyeongungung, until 1902 when Junghwajeon was built. Jeukjodang was destroyed by fire in 1904, and Gojong lamented the loss because he had preserved the hall with utmost care. Seogeodang is the only building at Deoksugung with two stories."</item>
+        <item>"Emperor's sleeping When Gojong left the Russian legation and moved back to Gyeongungung in 1897, Hamnyeongjeon was built as his sleeping quarters there. It was destroyed by fire in 1904 but later rebuilt. Gojong died here in 1919 at the age of 68, and Hamnyeongjeon served as his royal coffin hall and spirit hall housing his memorial tablet. At the rear of the structure is a terraced garden and beautifully decorated chimneys. Hamnyeongjeon is approached by Yuhyeonmun Gate."</item>
+        <item>"Emperor's living quarters Deokhongjeon was built on the site of Gyeonghyojeon, the spirit hall of Empress Myeongseong. Here Emperor Gojong received highranking officials and foreign envoys. The interior was decorated in a Western style with a chandelier suspended from the ceiling."</item>
+        <item>"Combination of traditional and modern architecture Situated on the hill of the rear garden, this building is the counterpart to the pavilions found in rear gardens of other palaces"</item>
+        <item> "Completed in 1910, Seokjojeon is a Western-style stone building that housed Gojong’s sleeping quarters and audience halls. It and other Western-style buildings were built as part of the Great Han Empire’s push to modernize. Seokjojeon was built in a neoclassical style with verandas along three sides."</item>
+        <item>"Seogeodang is the only building at Deoksugung with two stories. Because it is not painted, Seogeodang resembles a typical private residence of Joseon Dynasty."</item>
+        <item>"Junmyeongdang is where Emperor Gojong administered state affairs; it is connected by a corridor to Jeukjodang. Burned down in 1904, these three buildings were rebuilt the same year."</item>
+        <item>"Main hall of palace Junghwajeon served as the main throne hall of Gyeongungung (Deoksugung), and was used for ceremonial occasions such as coronations and receiving of foreign envoys. After Gojong moved to Gyeongungung in 1897, Jeukjodang was used as the main throne hall until Junghwajeon was built in 1902 along with Junghwamun and Jowonmun gates, and an elongated Haenggak,a structure containing rooms for servants lodging and storage."</item>
+        <item>"Woonganmun is one of Deoksugung door"</item>
+        <item>"The door on the left Deoksugung Gwangmyeongmun."</item>
+        <item>"The construction of Junghwajeon Hall in Gyeongungung Palace in 1902 led to the establishment of the triple entrance system with the gates of Daehanmun, Jowonmun, and Junghwamun Located on the right side of the path about halfway between Daehanmun and Jowonmun, Gwangmyeongmun was originally the entrance to the courtyard of Hamnyeongjeon Hall."</item>
+        <item>"The Deoksugung Museum of Art."</item>
+        <item>" A Western-style garden and a bronze fountain in front of Seokjojeon were built in 1938. Unlike a traditional Korean garden which is located to the rear of a building, the garden of Seokjojeon is in front. This garden is also unusual in that it has a fountain. According to traditional Korean philosophy, it was the law of nature for water to flow down from above. A manmade waterfall was the common feature of a traditional garden, not a fountain."</item>
+    </string-array>
+
+    <string-array name="changdeokgung_location">
+        <item>"Donhwamun"</item>
+        <item>"Old SeonwonjeonSite"</item>
+        <item>"Injeongjeon"</item>
+        <item>"Seonjeongjeon"</item>
+        <item>"Huijeongjeon"</item>
+        <item>"Seongjeonggak"</item>
+        <item>"Nakseonjae"</item>
+        <item>"Gwolnaegaksa"</item>
+        <item>"Daejojeon "</item>
+        <item>"Jinseonmun"</item>
+        <item>"Injeongmun"</item>
+        <item>"Sugangjae"</item>
+        <item>"Sukjangmun "</item>
+        <item>"SecretGarden ticket box"</item>
+        <item>"Seonjeongmun"</item>
+    </string-array>
+
+    <string-array name="changdeokgung_location_explain">
+        <item>"Main Gate of Changdeokgung, built with imposing dignity Donhwamun was built in 1412 during King Taejong’s reign. Donhwamun has a two- story, pavilion-type wooden structure, and is the largest of all palace gates. In front of the gate there once was a broad, raised stone terrace giving the gate an imposing dignity."</item>
+        <item>"The place where royal ancestral rites were performed Seonwonjeon refers to the royal shrine where portraits of former kings were enshrined and ancestral rites were performed. In 1656, Gyeonghwadang (residence of Taejo, founder of Joseon, before he acceded to the throne) was moved from Gyeongbokgung to Changdeokgung to serve as the royal shrine. In 1921, during the Japanese occupation, a new royal shrine named Seonwonjeon was built deep in the  garden of Changdeokgung, and all ancestral rites were subsequently performed there."</item>
+        <item>"Setting for major ceremonies Injeongjeon is the throne hall of Changdeokgung. Major state affairs, including the coronation of a new king and reception of foreign envoys, took place here. Ceremonies were held in the courtyard; to the rear, a terraced garden rose up toward MaebongPeak."</item>
+        <item>"Where the king handled routine state affairs Here the king worked at his convenience to discuss routine state affairs with high ranking officials. In light of the topography it was built to the east of the throne hall. "</item>
+        <item>"The King’s bed chamber that became his workplace If Injeongjeon was the symbolic main hall, then Huijeongdang was used as the actual main hall of Changdeokgung, where the king spent most of his time. The king’s office, Seonjeongjeon, was not large enough for conducting routine state affairs. As a result, Huijeongdang, which originally was the king’s bed chamber, came to serve as his workplace. "</item>
+        <item>"The eastern part of the place, where we can glimpse into the daily life of the crown prince On the wide road leading to the Secret Garden, between Seongjeonggak and  Nakseonjae, used to stand Junghuidang. This area was the crown prince’s residence, and was once home to many buildings. Junghuidang was removed in 1891, and the buildings that remain today are Samsamwa, a hexagonal pavilion; Chilbunseo; and Seunghwaru. All three were once connected by corridors and used as a library and for storing books. "</item>
+        <item>"The place that evinces the simple tastes of King Heonjong Sugangjae was first built in 1785, later renovated in 1848 and turned into the quarters of Queen Sunwon, the grandmother of King Heonjong. Nakseonjae was originally enclosed by lines of buildings and courtyard walls, but they were removed during the Japanese occupation In 1996 this area was restored to its original style."</item>
+        <item>"The site for government offices While many government offices were located outside the palace walls, some of- fices were built on the palace grounds and were collectively known as Gwolnaegaksa."</item>
+        <item>"Scene of tragic history The residence of the queen, Daejojeon was originally surrounded by many secondary buildings, including Heungbokheon, which was witness to a tragic moment in history."</item>
+        <item>"Jinseonmun is over Geumcheongyo"</item>
+        <item>"door to go Injeongjeon "</item>
+        <item>"Sugangjae was first built in 1785, later renovated in 1848 and turned into the quarters of Queen Sunwon,the grandmother of King Heonjong"</item>
+        <item>"Bak Ja-cheong was an eunuch of the Goryeo Dynasty, the previous dynasty of Joseon."</item>
+        <item>"SecretGarden ticket box""</item>
+        <item>"door to go Seonjeongjeon"</item>
+    </string-array>
+
+    <string-array name="gyeongbokgung_minimap_location">
+        <item>"Gwanghwamun and palaces fences"</item>
+        <item>"Geoungjungjeong il one"</item>
+        <item>"sajeongjeon il won"</item>
+        <item>"Gangnyeongjeon and Gyotaejeon"</item>
+        <item>"Heumgyeonggak and hamwonjeung"</item>
+        <item>"Jagyeongjeon and Vicinity"</item>
+        <item>"Donggung and Vicinity"</item>
+        <item>"Hamhwadang and Jipgyoengdang"</item>
+        <item>"Hyangwonjeong and Geoncheonggung"</item>
+        <item>"Jibokjae and Vicinity"</item>
+        <item>"Taewonjeon and Vicinity"</item>
+        <item>"Gyeonghoeru Pavilion"</item>
+        <item>"Sujeongjeon and Gwolnaegaksa"</item>
+        <item>"Sojubang"</item>
+    </string-array>
+    <string-array name="changgyeonggung_minimap_location">
+        <item>"Honghwamun and Vicinity"</item>
+        <item>"Okcheongyo Bridge"</item>
+        <item>"Myeongjeongmun"</item>
+        <item>"Myeongjeongjeon"</item>
+        <item>"Munjeongjeon"</item>
+        <item>"Sungmundang"</item>
+        <item>"Binyangmun Gate"</item>
+        <item>"Haminjeong"</item>
+        <item>"Gyeongchunjeon"</item>
+        <item>"Hwangyeongjeon"</item>
+        <item>"Tongmyeongjeon"</item>
+        <item>"Yanghwadang"</item>
+        <item>"Yeongchunheon and Jipbokheon"</item>
+        <item>"Pongidae"</item>
+        <item>"King Seongjong’s placenta chamber monument"</item>
+        <item>"Chundangji"</item>
+        <item>"7-storey octagonal tower"</item>
+        <item>"Glass house"</item>
+        <item>"Gwandeokjeong"</item>
+        <item>"Gwancheondae"</item>
+        <item>"Suninmuun"</item>
+        <item>"Hamyangmun"</item>
+        <item>"Statement of science"</item>
+        <item>"Wolgeunmun"</item>
+        <item>"Administration Office"</item>
+        <item>"Jipchunmun"</item>
+    </string-array>
+
+    <string-array name="deoksugung_minimap_location">
+        <item>"Daehanmun and Vicinity"</item>
+        <item>"Junghwajeon and Vicinity"</item>
+        <item>"Jeukjodang and Vicinity"</item>
+        <item>"Hamnyeongjeon and Deokhongjeon"</item>
+        <item>"Jeonggwanhyeon"</item>
+        <item>"Seokjojeon and Vicinity"</item>
+        <item>"Gwolnaegaksa Site and Hwangudan"</item>
+        <item>"Area of Seonwonjeon"</item>
+        <item>"Jungmyeongjeon and Vicinity"</item>
+    </string-array>
+    <string-array name="changdeokgung_minimap_location">
+        <item>"Donhwamun"</item>
+        <item>"Injeongjeon"</item>
+        <item>"Seonjeongjeon"</item>
+        <item>"Huijeongdang"</item>
+        <item>"Daejojeon"</item>
+        <item>"Secret Garden ticket office in front"</item>
+        <item>"Gwolnaegaksa"</item>
+        <item>"Geumcheongyo"</item>
+    </string-array>
+
+    <string name="finish_text">"End"</string>
+    <string name="finish_content_text">"Do you want to exit the SeoulGo?"</string>
+
+    <string name="place_four_explain_price">
+                               "Person(7years~64years) - 3,000KRW\n"
+                               "Group(10person over) - \t20%discount\n"
+                                    "\n"
+                                     "* Free *\n"
+                             " * under 6 years of age\n"
+                             " * over 65 years of age\n"
+                             " * wear hanbok\n"
+
+    </string>
+    <string name="place_four_explain_time">"\n"
+        "※Every Monday is Dayoff\n"
+        "* Feb ~ May\t : 09:00~18:00\n"
+        " * June ~ Aug\t : 09:00~18:30\n"
+        "* Sep ~ Oct\t: 09:00~18:00\n"
+        "* Nov ~ Jan\t: 09:00~17:30\n"</string>
+
+    <string-array name="gyeongbokgung_store">
+        <item>"Asian kujin"</item>
+        <item>"Mirabeau Chocolat"</item>
+        <item>"Aunae bindaedduck"</item>
+        <item>"Jal ppa jin maemil"</item>
+    </string-array>
+    <string-array name="deoksugung_store">
+        <item>"SanukiA"</item>
+        <item>"TaePyung sicdang"</item>
+        <item>"Mugyodong 2nackji"</item>
+    </string-array>
+    <string-array name="gyeongbokgung_coupon_content">
+        <item>"10% discount"</item>
+        <item>"10% discount"</item>
+        <item>"Beverage gift"</item>
+        <item>"Beverage gift"</item>
+    </string-array>
+    <string-array name="deoksugung_coupon_content">
+        <item>"10% discount"</item>
+        <item>"Beverage gift"</item>
+        <item>"Conditional discounts"</item>
+    </string-array>
+
+
+    <string-array name="gyeongbokgung_photo_content">
+        <item>"In front of Geoungjungjeong"</item>
+        <item>"In front of Oesojubang stonewall"</item>
+        <item>"Souvenirs in front of the tree"</item>
+        <item>"In front of Geoungjungjeong"</item>
+        <item>"In front of hamwonjeung"</item>
+    </string-array>
+    <string-array name="changgyeonggung_photo_content">
+        <item>"In front of Youngchunhun"</item>
+        <item>"Yanghwadang stairs"</item>
+        <item>"In the back streets Gyeongchunjeon"</item>
+        <item>"Yeongchunheon On the next bigstone"</item>
+        <item>"In front of Munjeongjeon"</item>
+    </string-array>
+    <string-array name="deoksugung_photo_content">
+        <item>"In front of Seokjogyan stairs"</item>
+        <item>"Jeukjodang behind the Esplanade in front of a tree"</item>
+        <item>"Jeukjodang behind the Esplanade"</item>
+        <item>"Hamnyeongjeon front Esplanade"</item>
+        <item>"In front of fountain"</item>
+    </string-array>
+    <string-array name="changdeokgung_photo_content">
+        <item>"In front of Seonjeongjeon"</item>
+        <item>"In front of Geumcheongyo"</item>
+        <item>"In front of Seonjeongjeon"</item>
+        <item>"In front of Injeongjeon"</item>
+        <item>"In front of Huijeongdang"</item>
+    </string-array>
+    <string-array name="changgyeonggung_store">
+        <item>"Youngwung"</item>
+    </string-array>
+    <string name="no_coupon_text">"There is no coupon owned!"</string>
+    <string-array name="changgyeonggung_coupon_content">
+        <item>"Beverage gift"</item>
+    </string-array>
+
+</resources>

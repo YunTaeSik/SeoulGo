@@ -1,0 +1,476 @@
+<resources>
+    <string name="app_name">SeoulGo</string>
+    <string name="btn_collection">"ずかん"</string>
+    <string name="btn_home">"ホーム."</string>
+    <string name="btn_setting">"写真撮る場所"</string>
+
+    <string name="info_text">"じょうほう"</string>
+    <string name="language_text">"げんご"</string>
+    <string name="shared_text">"こうゆう"</string>
+    <string name="coupon_text">"クーポン"</string>
+
+    <string name="place_one">"景福宫"</string>
+    <string name="place_two">"昌庆宫"</string>
+    <string name="place_three">"德寿宫"</string>
+    <string name="alliance_coupon">"タイアップ"</string>
+    <string name="cancle_text">"キャンセル"</string>
+    <string name="getcoupon_text">"クーポンを受ける"</string>
+    <string name="gone_text">"とじる"</string>
+    <string name="gps_dialog_title_text">"いちしよう"</string>
+    <string name="language_select_text">"げんごせんたく"</string>
+    <string name="ok_text">"どうい"</string>
+    <string name="place_four_button">"じかん"</string>
+    <string name="place_one_button">"かいし"</string>
+    <string name="place_three_button">"きんがく"</string>
+    <string name="place_two_button">"いち"</string>
+    <string name="possesion_coupon">"ほゆうクーポン"</string>
+    <string name="processcoupon_text">"しんこうちゅう"</string>
+    <string name="use_coupon_text">"クーポン しよう"</string>
+    <string name="use_text">"しよう"</string>
+    <string name="info_caution">"ちゅういじこう"</string>
+    <string name="info_caution_ex">"しよう ちゅういじこう"</string>
+    <string name="info_mail">"といあわせ"</string>
+    <string name="info_mail_ex">"かいぜん, ふべん といあわせ"</string>
+    <string name="info_mail_mail">"メール送る"</string>
+    <string name="info_name">"じょうほう"</string>
+    <string name="info_using">"しよう"</string>
+    <string name="info_using_ex">"きのう, クーポン しよう"</string>
+    <string name="viewpager_two_text">"すいせん チャンギョングン しゃしんばしょ"</string>
+    <string name="viewpager_three_text">"すいせん トクスグン しゃしんばしょ"</string>
+    <string name="viewpager_one_text">"すいせん キョンボックン しゃしんばしょ"</string>
+    <string name="viewpager_content_two">"チャンギョングン まえ"</string>
+    <string name="viewpager_content_three">"トクスグン まえ"</string>
+    <string name="viewpager_content_one">"キョンボックン まえ"</string>
+    <string name="place_one_content">"キョンボックンに来たことを歓迎します"</string>
+    <string name="place_three_content">"トクスグン に来たことを歓迎します"</string>
+    <string name="place_two_content">"チャンギョングン に来たことを歓迎します"</string>
+
+
+    <string name="place_one_explain_time">"\n"
+                    "※まいしゅう かようび きゅうかん\n"
+                    "\n"
+                    "* 1月 ~ 2月\t: 09:00~17:00\n  (たちば締め切り 16:00)\n"
+                    "* 3月 ~ 5月\t: 09:00~18:00\n  (たちば締め切り 17:00)\n"
+                    "* 6月 ~ 8月\t: 09:00~18:30\n  (たちば締め切り 17:30)\n"
+                    "* 9月 ~ 10月\t: 09:00~18:00\n  (たちば締め切り 17:00)\n"
+                    "* 11月 ~ 12月\t: 09:00~17:00\n  (たちば締め切り 16:00)\n"
+                    "* じじょう よって かんらん じかん たんしゅく あります\n"</string>
+    <string name="place_two_explain_time">"\n"
+        "※まいしゅう げつようび きゅうかん.\n"
+        "* 2月 ~ 5月\t: 09:00~18:00\n"
+        "* 6月 ~ 8月\t: 09:00~18:30\n"
+        "* 9月 ~ 10月\t: 09:00~18:00\n"
+        "* 11月 ~ 1月\t: 09:00~17:30\n"</string>
+    <string name="place_three_explain_time">
+                            "\n"
+                    "※まいしゅう げつようび きゅうかん.\n"
+                    "にゅうじょう\t09:00 ~ 20:00\n"
+                    "たいじょう\t09:00 ~ 21:00\n"
+    </string>
+
+    <string name="place_one_explain_price">"\n"
+            "Adults(19歳~64歳) - 3,000KRW\n"
+            "Adults(10人いじょう) - 2,400KRW\n"
+            "Child(7歳~18歳) - 1,500KRW\n"
+            "Child(10人いじょう) - 1,200KRW\n"
+            "\n"
+                        "* むりょう *\n"
+               " * 6歳いか\n"
+               " * 65いじょう歳\n"
+               " * 韓服きる\n"
+               " * まいげつさいしゅうすいようび\n"
+               "        [ぶんかがある]
+                            </string>
+    <string name="place_two_explain_price">"\n"
+            "Adults(19歳~64歳) - 1,000KRW\n"
+            "Adults(10人いじょう) - 800KRW\n"
+            "Child(7歳~18歳) - 500KRW\n"
+            "Child(10人いじょう) - 400KRW\n"
+            "\n"
+                        "* むりょう *\n"
+               " * 6歳いか\n"
+               " * 65いじょう歳\n"
+               " * 韓服きる\n"
+                            </string>
+    <string name="place_three_explain_price">"\n"
+            "Adults(19歳いじょう) - 1,000KRW\n"
+            "Adults(10人いじょう) - 800KRW\n"
+            "Child(7歳~18歳) - 500KRW\n"
+            "Child(10人いじょう) - 400KRW\n"
+            "\n"
+                        "* むりょう *\n"
+               " * 6歳いか\n"
+               " * 65いじょう歳\n"
+               " * 韓服きる\n"
+                            </string>
+    <string name="ch_language">"中国語"</string>
+    <string name="collection_finish">"すべてのパズルのピースを完成しました! \n クーポン受ける場所に移動しますか？"</string>
+    <string name="developer_four">"開発者-大きな"</string>
+    <string name="developer_one">"開発者-ゴブリン"</string>
+    <string name="developer_three">"開発者-カメラマン"</string>
+    <string name="developer_two">"開発者-チビ"</string>
+    <string name="gps_dialog_content_text">"Seoul Goの正確な位置情報サービスの現在の位置情報を使用したいと思います.\n 同意しますか？"</string>
+    <string name="hint_text">"クリックすると、ヘルプが出てくる."</string>
+    <string name="info_caution_explain">"Precautions\n"
+                            "\n1. If you have to press the cell phone manbo one piece and conflicts with people.\n"
+                            "2. The coupon can be used only on whether the issue surrounding attractions.\n"
+                            "3. The coupons have not write in another place.\n"
+    </string>
+    <string name="info_use_explain">"機能を使用する方法\n"
+                            "\n1. Press the attractions pictures users want to go.\n"
+                            "2. Verify the location, rates, hours.\n"
+                            "3. Arriving in spots, press the 'Start' button.\n"
+                            "4. Go to the place chosen at random to collect the pieces.\n"
+                            "5. take pictures in the photo zone,Leave your memories\n"
+                            "6. collect all the pieces, and then Go to the collection menu and press the cupon button\n"
+                            "\nCoupon usage\n"
+                            "\n1. Go to the menu and check the coupons you have.\n"
+                            "2. Go to affiliate to see if you can get a discount for some place.\n"
+                            "3. After selecting a place to go get a discount.\n"
+    </string>
+    <string name="jp_language">"日本語"</string>
+    <string name="ko_language">"韓国語"</string>
+    <string name="move_text">"移動"</string>
+    <string name="noti_text">"getしに行く"</string>
+    <string name="noti_tilte">"近くにパズルのピースがある!"</string>
+    <string name="permit_text">"権限を付与する必要がサービスをご利用いただけます."</string>
+    <string name="photo_expand_text">"続きを読む"</string>
+    <string name="place_four">"昌徳宮"</string>
+    <string name="place_four_content">"昌徳宮来ることを歓迎します."</string>
+    <string name="un_language">"英語"</string>
+    <string name="use_coupon_content">"あなたはあなたのクーポンを使用しますか？"</string>
+    <string name="viewpager_content_four">"昌徳宮の前で"</string>
+    <string name="viewpager_four_text">"昌徳宮おすすめの写真の場所"</string>
+
+
+     <string name="gyeongbokgung_explain"> "漢陽の中心だった朝鮮王朝第一の法宮
+     景福宮は1395年に創建した朝鮮王朝第一の法宮(王の住む宮廷)である。北には北岳 山が、南には正門である光化門があり、その前に広い六曹通り(今の世宗路)が開かれた漢 陽(ソウル)の中心だった。
+     後に拡張と再建を繰り返えす中、1592年の文禄の役の際、全焼 してしまった。その後、景福宮は約270年間復旧されることなく放置されていたが、1867年 に高宗(26代目の王)の実父(興宣大院君)の主導で再建された。
+     再建された景福宮には、約 500棟の建物があった。宮廷には基本的に王と役人たちが政務を担当する外殿、王族と宮 人たちが生活する内殿、休息のための庭園施設などがあった。
+     景福宮は日本の植民地時代、計画的に毀損された。1911年に景福宮敷地の所有権は 朝鮮総督府に移り、1915年には朝鮮物産共進会を開催するという名目で90%以上の殿閣 が取り壊された。
+     1926年には巨大な朝鮮総督府庁舍が建てられ、景福宮の建物は見えなく なった。
+     景福宮は1990年から本格的な復元事業を推進している。昔の朝鮮総督府の建物を撤 去して興礼門一帯を復元し、2010年には正門の光化門を復元した。 </string>
+
+   <string name="changgyeonggung_explain">"自然美と王室生活が調和を成した宮殿
+         昌慶宮は朝鮮9代王である成宗が1483年(1484年完成)昌徳宮の東に建てた宮殿である。
+       昌徳宮と境界なしに一つの宮殿として使用し、二つを合わせて東闕と称した。
+       昌慶宮址の歴 史は高麗までさかのぼる。世宗が即位した1418年、高麗の南京離宮址に上王太宗のために 寿康宮を建てたのである。
+       成宗は昌徳宮が狭くて三人の大妃たちのための空間として寿康 宮を拡張補完しながら工事中に昌慶宮と名付けた。
+       昌慶宮は創建初期の用途があまり多く なかったが、文禄の役以後昌徳宮が正宮の役目をしながら離宮として活用頻度が高くなっ た。"</string>
+
+    <string name="deoksugung_explain">"近代韩国的原空间-德寿宫，形成首尔新的中心地带。
+        作为大韩帝国正宫，德寿宫的旧名是庆运宫，曾经是成宗(9代)的哥哥月山大君的
+        宅邸。壬辰倭乱（中国称为朝鲜壬辰卫国战争）时首尔的宫殿皆烧毁，于是1593年
+        (宣祖26)将临时宫殿定在此处，1611年（光海3）宫号才从贞陵洞行宫改为‘庆运
+        宫’。1615年（光海7）搬迁至光海君重建的昌德宫，随即成为别宫。
+        伴随1897年大韩帝国的出台庆运宫走到了韩国近代历史的前台。全盛时期的庆运
+        宫是比现有宽度宽三倍的宏大的宫殿。包括重眀殿现有美国大使馆对面西侧一
+        带曾经是皇室居住的宫殿，北侧是为历代国王祭祀的璇源殿，而东侧祭天的圜丘
+        坛体现了帝国的威严。但由于高宗退位，改变了庆运宫作为先皇居住的宫殿的形
+        象，名称也随即改为德寿宫。之后拆除了部分宫内各司和圜丘坛，这里也失去了作
+        为象征大韩帝国的威望。
+        高宗驾崩后，从1920年日本开始将璿源殿和重眀殿一带出售，王宫范围也减小了
+        很多。1933年拆除了很多建筑后改建成公园向公众开放。就这样德寿宫经历了日
+        帝强占期，虽然被损毁，但经历了壬辰倭乱和大韩帝国时期的历史性变革，是克
+        服国难的象征性空间，也是其历史的中心。"
+      </string>
+       <string name="changdeokgung_explain">"自然と調和を成した最も韓国的な宮廷
+        昌德宮は1405年に太宗(3代王)が建てた朝鮮王朝第二の王宮である。初めは法宮（王が住む
+        第一の宮廷)である景福宮に引き続き離宮として創建されたが、以後王たちが主に昌德宮に居
+           住しながら実質的な法宮の役割を果たした。文禄·慶長の役の時に漢陽(現ソウル)の宮廷が
+        全焼した後、景福宮はその土地が不吉だという理由で再建されず、1610年(光海 2)昌德宮が
+        再建された。その後、昌德宮は景福宮が再建されるまで270余年間、法宮として使用された。"
+   </string>
+
+
+    <string-array name="gyeongbokgung_location">
+        <item>"光化門"</item>
+        <item>"勤政門"</item>
+        <item>"勤政殿"</item>
+        <item>"修政殿"</item>
+        <item>"慶會樓"</item>
+        <item>"思政殿"</item>
+        <item>"資善堂"</item>
+        <item>"烧厨房"</item>
+        <item>"康寧殿"</item>
+        <item>"交泰殿"</item>
+        <item>"慈慶殿"</item>
+        <item>"香遠亭"</item>
+        <item>"乾淸宮"</item>
+        <item>"集玉齋"</item>
+        <item>"泰元殿"</item>
+    </string-array>
+    <string-array name="gyeongbokgung_location_explain">
+        <item>"昔の栄華を思わせる4大門 景福宮の正門である光化門の両端の角には望桜である東 十字閣と西十字閣を建てて、朝鮮の5大宮廷のうち、唯一、闕門形式を備えている。 西十字閣は1920年代に撤去された。東十字閣は道路拡張によって石垣が内側に 縮小され、道路の真ん中にぽつりと立つようになった。"</item>
+        <item>"勤政殿に行くための文"</item>
+        <item>"儀式・国家行事が行われた宮廷の中心 勤政殿は景福宮の最高殿閣である法殿(正殿)で、その名前は‘天下の事は勤勉であ れば治まる’という意味を持っている。 宮廷で最も荘厳な中心建物として王権を象 徴し、王の即位式や文武百官との朝会、外国使節の接見など国家行事を行った所 だ "</item>
+        <item>"王室業務のための官庁 このうち、修政殿だけが現在唯一残っている。 1867年に再建されたここは、王の出入りが頻繁で官庁建物としては珍しく正面に月 台を置いた。 修政殿は執務空間として使用していたが、1894年甲午改革の時、内閣 本部である軍国機務処として使用されたりした。 闕内各司は修政殿の前の空き地に 密集していたが、1915年朝鮮物産共進会を開催時に完全に撤去された。 ここは世宗 の時(1443年)、ハングル創製の産室である集賢殿があった所でもある。 修政殿は宝 物第1760号に指定されている。"</item>
+        <item>"雄大壮厳ながらも美しい建築美学の絶頂 慶会楼は王が臣下たちと規模の大きい宴会を開いたり、外国使臣を応待していた 所だ。 池で舟遊びを楽しんで慶会楼に上がり、仁王山と宮廷の景観を鑑賞した。 創 建当時、小さな楼閣だった慶会楼は1412年(太宗12年)に池を大きく確張して楼閣 も大きな規模に再建した。"</item>
+        <item>"国政が行われた所 思政殿は王の公式的な執務室で、その名前には王が政治に臨む時、深く考えて正 否を選り分けなければならないという意味が込められている。 毎朝の報告と会議、 国政セミナーにあたる行事などがここで開かれた。 思政殿の左右にある万春殿と 千秋殿は、オンドル部屋を取り揃えて冬でも利用できた "</item>
+        <item>"王世子は昇る太陽のように王位を継ぐ人であるため、内殿の東側に居所を配置して、 これを東宮と呼んだ。西側の資善堂は王世子と世子嬪が暮らした内殿で"</item>
+        <item>"朝鮮時代に王と王妃の食事を用意するところ。放課槍で構成された母屋があり、これを大統領府、部屋、台所、物置に構成された廊が取り囲んでいる。 厨房ナインらが王と王妃の食事を準備し、火災の恐れがあるため、王の寝殿と離れたところに設置した。 日常式を購入する内焼厨房と城壁の宴会料理をするウェソジュバンがある。"</item>
+        <item>"王室の生活が息づいている所 王と王妃が日常生活をする所を寝殿と言う。康寧殿は王の寝殿である。寿・富・康寧・ 攸好徳(徳を好み、喜んで行うこと) ・考終命(寿命のとおりに生きて楽に死ぬこと)と いう五福の中で真ん中の三番目の福が‘康寧’である"</item>
+        <item>" 交泰殿は創建当時ではなく1440年(世宗22年)に初めて建てられた。ここは 王妃の寝殿で宮廷内の生活を総指揮した所だ。"</item>
+        <item>"興宣大院君が捧げた大妃殿 ‘慈慶’という名前は正祖(22代目の王) が即位して母君である恵慶宮洪氏のために昌慶宮に慈慶堂を建てたことから始ま った。 王が母君に慶事があることを願うという意味である。"</item>
+        <item>"高宗のために建てた空間 咸和堂と緝敬堂の北側の後園領域には香遠池という四角い池が造成されており、 その中に香遠亭がある。慶会楼が雄大壮厳で男性的なら香遠亭はこぢんまりして 女性的な雰囲気を漂わせている。 元々は北側の乾清宮につながる橋があったが、 朝鮮戦争の時に破壊され今のように南側においた。"</item>
+        <item>"乾清宮は王妃の居所である坤寧閤、王の居所である長安堂、洋館である 観文閣などから成り立ち、1895年に明成皇后が殺害された悲劇の場所でもある。 "</item>
+        <item>"清風と朝鮮風の調和 この時、昌徳宮の咸寧殿の別堂であった集玉斎と 協吉堂などを1891年、乾清宮の西側に移し、書斎や外国使臣接見所として使用し た。 集玉斎は煙瓦を積んで両壁面を作った清風建物で、外から見ると単層に見える が、内部は2階になっている。"</item>
+        <item>"王位正統性確保のための高宗の努力 王子出身ではなかった高宗は、父親(興宣大院君)とともに王権承継の正統性是非に 対応しなければならなかった。その一環として泰元殿を作り、歴代王の肖像であるご 真影を奉ることで正統性を確保しようとした。 1868年(高宗5年)に建立されたと推定 される泰元殿には太祖(1代目の王)のご真影を奉った。以降、皇后の遺体を奉る殯 殿として使用したりした。"</item>
+    </string-array>
+
+    <string-array name="changgyeonggung_location">
+        <item>"弘化門"</item>
+        <item>"明政殿"</item>
+        <item>"文政殿"</item>
+        <item>"崇文堂"</item>
+        <item>"通明殿"</item>
+        <item>"景春殿"</item>
+        <item>"歓慶殿 "</item>
+        <item>"集福軒"</item>
+        <item>"春塘池"</item>
+        <item>"GrandGreenhouse"</item>
+        <item>"月覲門"</item>
+        <item>"Okcheongyo"</item>
+        <item>"Hamyangmon"</item>
+        <item>"Poonggidae"</item>
+        <item>"養和堂"</item>
+    </string-array>
+
+    <string-array name="changgyeonggung_location_explain">
+        <item>"宮殿の品位を見せてくれる正門 昌慶宮の中心部分が東向きであったため、正門である弘化門も東側に立てられた。 1484年(成宗15)に創建、文禄の役で焼失後、1616年(光海8)に再建された。 2階建て の楼閣型木造建物で左右に一双の十字閣を建てて品格高い大門形式を備えている。 弘化門を通過すると明堂水である禁川が流れており、その上に500年以上 の歴史を持つ玉川橋（宝物第386号)が渡されている。"</item>
+        <item>"品格と実用を追求した正殿 明政殿は昌慶宮の最高殿閣で即位式、賀礼儀式、科挙試験、宮殿宴会などの公式 的行事を行った正殿である。 1484年(成宗15)に創建され文禄の役で焼失してから、 1616年(光海8)に再建されて現在に至っている。 現存する宮殿の正殿の中で最も古 い建物である。 景福宮の勤政殿と昌徳宮の仁政殿が重層規模で巨大に建てられ たのに比べて明政殿は相対的に規模が小さい。"</item>
+        <item>"国王が政務を担当した所 文政殿は王の公式執務室である便殿で、東向きの明政殿とは違い南向きの建物で ある。 正殿である明政殿とは背を向けているが、このような珍しい配置構造は他の 宮殿では見られない。 便殿ではあるが王室の神主を奉った魂殿として使用された りもした。"</item>
+        <item>"王と臣下の学問的交流が成り立った所 崇文堂は王が臣下たちと経筵を開いて政事と学問を論じた所である。 昌慶宮創建 当時にはなかったが光海君の時に昌慶宮を再建しながら建てられたと推定される。"</item>
+        <item>"品位を備えた内殿の中心殿閣 内殿の最も奥深い所に南向きに位置した通明殿は王妃の寝殿で、内殿の最高殿閣 である。 月台の上に基壇を形成しその上に建物をあげ、宴会や儀礼を開くことがで きる広い庭には薄くて平たい薄石を敷いた。"</item>
+        <item>"王室の生老病死が成り立った所 景春殿と歓慶殿は通明殿、養和堂とともに昌慶宮の内殿を成す寝殿である。 ここを 中心に王と王妃の日常生活と生老病死が成り立った。 景春殿は成宗が1483年に仁粹 大妃のために建てた大妃の寝殿だ。 しかし、正祖と憲宗がここで誕生し多くの王后た ちがここで崩御したことから見て、大妃だけではなく王妃と世子嬪も多く使用したよ うである。 これに比べて歓慶殿は王や王世子が起居したと思われる。正祖は本人の 誕生を記念して景春殿内部に‘誕生殿’と直接書いた扁額をかけたりした。"</item>
+        <item>"王室の生老病死が成り立った所 景春殿と歓慶殿は通明殿、養和堂とともに昌慶宮の内殿を成す寝殿である。 ここを 中心に王と王妃の日常生活と生老病死が成り立った。 景春殿は成宗が1483年に仁粹 大妃のために建てた大妃の寝殿だ。 しかし、正祖と憲宗がここで誕生し多くの王后た ちがここで崩御したことから見て、大妃だけではなく王妃と世子嬪も多く使用したよ うである。 これに比べて歓慶殿は王や王世子が起居したと思われる。正祖は本人の 誕生を記念して景春殿内部に‘誕生殿’と直接書いた扁額をかけたりした。"</item>
+        <item>"集福軒では思悼世子と純祖が誕生した。 正祖は純租を生 んだ綏嬪朴氏を寵愛して集福軒によく出入りしながら近くの迎春軒を読書室と執務 室を兼ねて利用したりした。"</item>
+        <item>"王が農政を観察した所 春塘池は現在二つの池に分けられているが、裏側の小さな池が朝鮮王朝の時から あった本来の春塘池である。 面積が広い前の池は元々王が自ら農業を行った11個 の田だった。"</item>
+        <item>"Changgyeonggung's GrandGreenhouse"</item>
+        <item>"月覲門は正祖が思悼世子の祠堂である景慕 宮に参拜しに行くために別に作った門である。 正祖は即位するやいなや生父 である思悼世子の諡号を荘献世子とし、祠堂を建ててここによく立ち寄り礼を 示した"</item>
+        <item>"Okcheongyo is tresure No. 386."</item>
+        <item>"Changdeok Palace that passes through the door."</item>
+        <item>"Poonggidae is wander and to gauge the strength of the wind flags."</item>
+        <item>"養和堂は内殿の接待空間として使用されたが、丙子胡乱の時に 仁祖が還都しながらとどまったりした。 今の通明殿と養和堂は1834年に再建したも のである。通明殿は宝物第818号に指定されている。"</item>
+    </string-array>
+
+    <string-array name="deoksugung_location">
+        <item>"大漢門"</item>
+        <item>"中和門"</item>
+        <item>"即阼堂"</item>
+        <item>"咸寧殿"</item>
+        <item>"德弘殿"</item>
+        <item>"靜觀軒"</item>
+        <item>"石造殿"</item>
+        <item>"昔御堂"</item>
+        <item>"浚 堂"</item>
+        <item>"中和殿"</item>
+        <item>"Woonganmun"</item>
+        <item>"Wolgokmun"</item>
+        <item>"光明門"</item>
+        <item>"石造殿 美術館"</item>
+        <item>"石造殿前の噴水"</item>
+    </string-array>
+
+    <string-array name="deoksugung_location_explain">
+        <item>"大韓帝国、近代世界に向けて門を開く 大安門 は‘大きく安らかだ’という意味だ。1906年、修理の時に大漢門と名を変えた。 ‘大 漢’は‘漢陽の勢力が栄える’という意味だ。 「大漢門上樑文」を見ると、“黄河が 澄み渡る千載一遇の時運を迎えたので、国運が末永く栄え、漢陽が億万年、続く土 地に位置したので、門の名として特別にかける。” と記録されている。漢陽を首都と して新たに生まれ変わった大韓帝国が、永遠に栄えるだろうという念願を込めた言 葉だ。 大漢門を通り過ぎた所にある禁川橋は 1986年に発掘され、整備されたもの だ。この橋を渡って中和門の前に到る道が宮殿の中心路であった。"</item>
+        <item>"中和門 前ドア"</item>
+        <item>"徳寿宮の元空間 即阼堂一帯は、文禄の役の時に宣祖が臨時に留まった所で、徳寿宮の母体となっ た所である。 1897年、高宗がロシア公使館から慶運宮に移った後、1902年、中和殿 を建立する前まで正殿として使用された建物である。 1904年の火災で即阼堂が消 失すると、高宗はこれを非常に惜しんだ。 仁祖即位以後、垂木一つ変えないで大事 に保存して来たからだ"</item>
+        <item>"皇帝の寝殿と便殿 咸寧殿は高宗の還御とともに1897年に建立された王の寝殿である。1904年、大火 災で消失後に重建された。高宗はここに寄居していた時、68歳で崩御した。 死後、 咸寧殿は高宗の殯殿及び魂殿として使用された。 徳弘殿は明成皇后の魂殿として 使用されたいた景孝殿が位置していた所で、高宗皇帝が高位官僚と外交使節を接 見する便殿として使用した"</item>
+        <item>"皇帝の寝殿と便殿 内部は天井にシャンデリアを設置するなど、西洋風に飾 られた。 咸寧殿の裏手には階段式庭園を構え、塼壁石で作った惟賢門と美しい装 飾をした煙突を設置した。 咸寧殿は宝物第820号に指定されている。"</item>
+        <item>"伝統建築と西洋建築の調和 静観軒は、その名のとおり宮殿後苑の丘の上から‘静かに宮殿を見下ろす’休息用 建物である。 位置も咸寧殿の後ろにあり、伝統宮殿で後苑の亭機能の代わりをする 建物だといえる。"</item>
+        <item>"近代国家の象徴 石造殿は高宗皇帝が寝殿兼便殿として使用するために、1900年から1910年にわた って建てた洋式石造建物である。 慶運宮に洋式建築物を建立したのは、大韓帝国 の近代化のための政策の一環であった。 石造殿は西洋の新古典主義の建築様式 で建てられ、建物の前と東西の両面にベランダが設置されているのが特徴だ"</item>
+        <item>"昔御堂は徳寿宮に唯一残っている重層建物で、丹青が施されていないため素朴な 人家のようだ。 仁祖即位後、慶運宮の殿閣の大部分を元来の住民に返したが、この 二つの建物だけは保存して後に慶運宮の中心となった。"</item>
+        <item>"浚 堂は皇帝が政治を執っ ていた便殿で、即 阼堂と廊下で繋がっている。現在の三つの建物は1904年に消失 後、同じ年に重建されたものである。"</item>
+        <item>"公式的行事を行った宮殿の最高殿閣 中和殿は慶運宮の正殿として王の即位式、臣下たちの祝賀会、外国使臣の接見など 重要な国家的儀式を行った所だ。 高宗が慶運宮に移った後、約5年間、即阼堂を正 殿として使用したが、1902年に重層の中和殿を新たに作った。"</item>
+        <item>"Woonganmun is one of Deoksugung door"</item>
+        <item>"The door on the left Deoksugung Gwangmyeongmun."</item>
+        <item>"1902年、慶運宮に中和殿が建築されたことにより、大漢門-朝元門-中和門という三門の体制が整った。 光 明門は大漢門を過ぎて朝元門へ行く途中の右側に位置していた咸寧殿の領域への入口であった。 この門を通じて咸寧 殿への出入りが可能となり、1919年には高宗の出棺の時も利用された。"</item>
+        <item>"トクスグン 美術館"</item>
+        <item>" 石造殿の前にある庭園と青銅製の噴水は、西欧型庭園と して、1938年に造成されたといわれている。 韓国の伝統庭園は、建物の後ろ に配置して後苑というのに比べて、石造殿は建物の前に庭園を造成した。 ま た韓国の伝統造景では噴水はないが、これは韓国人の自然観から始まってい る。 韓国の先祖は水は高い所から低い所に流れるのが自然の理にかなってい ると考えたため、庭園に人工的に滝を作ったりしたが、 水が逆に噴射する噴水 を作ることはなかったのである。"</item>
+    </string-array>
+
+    <string-array name="changdeokgung_location">
+        <item>"敦化門"</item>
+        <item>"旧璿源殿"</item>
+        <item>"仁政殿"</item>
+        <item>"宣政殿"</item>
+        <item>"熙政堂"</item>
+        <item>"誠正閣"</item>
+        <item>"樂善齋"</item>
+        <item>"闕內各司"</item>
+        <item>"大造殿"</item>
+        <item>"進善門"</item>
+        <item>"仁政門"</item>
+        <item>"壽康齋"</item>
+        <item>"肅章門"</item>
+        <item>"後苑切符売り場"</item>
+        <item>"宣政門"</item>
+    </string-array>
+
+    <string-array name="changdeokgung_location_explain">
+        <item>"規模と品位を同時に備えた、昌德宮の正門 昌德宮の正門である敦化門は1412年(太宗 12)に建立された。創建当時、昌德宮の 前には宗廟があって宮の進入路を宗廟西側に作るしかなかったので、敦化門も宮 廷の西側に作った。2階建て楼閣型木造建築で、宮廷正門のうち最大の規模であり、 前に広い月臺を作って宮廷正門の威厳を表した。 "</item>
+        <item>"王室の祭礼を行った所 璿源殿は歴代の王の肖像画である御真を奉って祭祀を執り行なう神聖な所だ。 1656年(孝宗 7)に慶德宮の景華党を移建して昌德宮の璿源殿としたが、1921年に 新璿源殿を後苑の奥深い所に建立し、御眞を移したので、この一帯は廃墟となった。 璿源殿は今も残っているが、付属建物はこの時になくなり、2005年に復元された。 "</item>
+        <item>"国家の重要な儀式を行った所 仁政殿は昌德宮の正殿として王の即位式、臣下たちのあいさつ、外国使臣の接見な ど重要な国家の儀式を行っていた所である。前方に儀式を行う庭である朝廷があり、 後方には階段式庭園がある。"</item>
+        <item>"王の執務室として使われた所 宣政殿は王が高位職の臣下たちとともに日常業務を執った公式執務室で、地形に 合わせて正殿である仁政殿東側に建てられた。朝の朝廷会議、業務報告、国政セ ミナ―など、各種会議がここで毎日開かれた。創建当時は朝啓廳と呼んだが、1461 年(世祖 7)に‘民に施す政治をしなければならない’と言う意味の宣政殿と名称を 変えた。"</item>
+        <item>"寝殿でありながら執務室であった所 仁政殿が昌德宮の象徴的な建物なら、煕政堂は王が最も多くの時間をすごした実 質的な中心建物だと言える。元々の名称は崇文堂だったが、1496年(燕山 2)に煕政 堂と名称を変えた。元々の執務室である宣政殿がたびたび国葬のための魂殿として 使われたので、寝殿であった煕政堂が執務室の機能をするようになった。"</item>
+        <item>"皇太子が日常をすごした東宮 現在、誠正閣と樂善齋の間、後苑に続く広い道には元々、皇太子の居所である重煕 堂があり、この一帯は東宮とも呼ばれた。東宮一帯には多くの建物があったが、重 煕堂は1891年(高宗 28)になくなり、重煕堂と繋がった六角形の建物である三三 窩、その横の七分序と承華樓などが残っている。これらは互いに廊下で繋がってお り、書庫と図書室として使用した。誠正閣は皇太子の教育場であったが、日帝強占 期には內醫院(王室の病院)として使用されたりした"</item>
+        <item>"憲宗のつましい一面が感じられる所 その一面の感じられる 樂善齋は丹靑(彩色)を施さない質素な建物、壁、障 子等の模様、平遠樓の建築様式等から清の影響をうかがうことができる。樂善齋は 建物と庭で幾重にも囲まれていたが、日帝強占期に撤去されて花壇として残ってい たものを、1996年に昔の姿に復元したものだ。錫福軒では純宗の妃である純貞孝皇 后が1966年まで暮らし、樂善齋では英王の妃である李方子女史が1989年まで生活した。 "</item>
+        <item>"王と王室を補佐する闕內各司 官庁は大部分宮廷の外にあったが、王を近くで補佐するため、特別に宮廷の中に建てた官庁を闕內各司と呼んだ。"</item>
+        <item>"歴史的悲劇の舞台である寝殿 大造殿は王妃の生活空間である。元々は大造殿周辺を多くの付属建物が囲んでい たが、その中の興福軒は、1910年、最後の御前会議を開いて庚戌國恥(朝鮮が日本 の植民地支配下に置かれたこと)が決まった悲劇の現場である。"</item>
+        <item>"錦川橋 後 進善門"</item>
+        <item>"仁政殿 前 仁政門"</item>
+        <item>"樂善齋は憲宗 の住まいで、錫福軒は慶嬪の住まいで、壽康齋は当時の大王大妃である純元王后 (23代純祖の王妃)のための建物であった。"</item>
+        <item>" 仁政殿の外行閣の庭は、西側の進善門の方が広く、東側の肅章門の方が狭い台形である。"</item>
+        <item>"後苑切符売り場"</item>
+        <item>"宣政殿 前 宣政門"</item>
+    </string-array>
+
+    <string-array name="gyeongbokgung_minimap_location">
+        <item>"光化門"</item>
+        <item>"勤政殿"</item>
+        <item>"思政殿"</item>
+        <item>"康寧殿・交泰殿"</item>
+        <item>"欽敬閣・含元殿"</item>
+        <item>"慈慶殿"</item>
+        <item>"東宮"</item>
+        <item>"咸和堂・緝敬堂"</item>
+        <item>"香遠亭・乾淸宮"</item>
+        <item>"集玉齋"</item>
+        <item>"泰元殿"</item>
+        <item>"慶會樓"</item>
+        <item>"修政殿・闕內各司"</item>
+        <item>"燒廚房"</item>
+    </string-array>
+    <string-array name="changgyeonggung_minimap_location">
+        <item>"興化門"</item>
+        <item>"玉川橋"</item>
+        <item>"明政門"</item>
+        <item>"明政殿"</item>
+        <item>"文政殿"</item>
+        <item>"崇文堂"</item>
+        <item>"賓陽門"</item>
+        <item>"涵仁亭"</item>
+        <item>"景春殿"</item>
+        <item>"歡慶殿"</item>
+        <item>"通明殿"</item>
+        <item>"養和堂"</item>
+        <item>"迎春軒,集福軒"</item>
+        <item>"風旗臺"</item>
+        <item>"成宗大王胎室碑和圣物"</item>
+        <item>"春塘池"</item>
+        <item>"八角七層石塔"</item>
+        <item>"大溫室"</item>
+        <item>"觀德亭"</item>
+        <item>"觀天臺"</item>
+        <item>"宣仁門"</item>
+        <item>"涵陽門"</item>
+        <item>"Statement of science"</item>
+        <item>"月覲門"</item>
+        <item>"Administration Office"</item>
+        <item>"集春門"</item>
+    </string-array>
+
+    <string-array name="deoksugung_minimap_location">
+        <item>"大漢門"</item>
+        <item>"中和殿"</item>
+        <item>"卽祚堂"</item>
+        <item>"咸寧殿・德弘殿"</item>
+        <item>"靜觀軒"</item>
+        <item>"石造殿"</item>
+        <item>"闕內各司址ㆍ圜丘壇"</item>
+        <item>"璿源殿址"</item>
+        <item>"重眀殿"</item>
+    </string-array>
+    <string-array name="changdeokgung_minimap_location">
+        <item>"敦化門"</item>
+        <item>"仁政殿"</item>
+        <item>"宣政殿"</item>
+        <item>"熙政堂"</item>
+        <item>"大造殿"</item>
+        <item>"Secret Garden ticket office in front"</item>
+        <item>"闕內各司址"</item>
+        <item>"禁川橋"</item>
+    </string-array>
+
+    <string name="finish_text">"終了"</string>
+    <string name="finish_content_text">"あなたはSeoulGoを終了しますか？"</string>
+
+    <string name="place_four_explain_price">
+                               "人(7歳~64歳)) - 3,000KRW\n"
+                               "団体(10人いじょう) - \t20%割引\n"
+                                    "\n"
+                                    "* むりょう *\n"
+                           " * 6歳いか\n"
+                           " * 65いじょう歳\n"
+                           " * 韓服きる\n"
+
+    </string>
+    <string name="place_four_explain_time">"\n"
+        "※まいしゅう げつようび きゅうかん.\n"
+        "* 2月 ~ 5月\t: 09:00~18:00\n"
+        "* 6月 ~ 8月\t: 09:00~18:30\n"
+        "* 9月 ~ 10月\t: 09:00~18:00\n"
+        "* 11月 ~ 1月\t: 09:00~17:30\n"</string>
+
+    <string-array name="gyeongbokgung_store">
+        <item>"Asian kujin"</item>
+        <item>"Mirabeau Chocolat"</item>
+        <item>"Aunae bindaedduck"</item>
+        <item>"Jal ppa jin maemil"</item>
+    </string-array>
+    <string-array name="deoksugung_store">
+        <item>"SanukiA"</item>
+        <item>"TaePyung sicdang"</item>
+        <item>"Mugyodong 2nackji"</item>
+    </string-array>
+    <string-array name="gyeongbokgung_coupon_content">
+        <item>"10％割引"</item>
+        <item>"10％割引"</item>
+        <item>"飲料贈呈"</item>
+        <item>"飲料贈呈"</item>
+    </string-array>
+    <string-array name="deoksugung_coupon_content">
+        <item>"10％割引"</item>
+        <item>"飲料贈呈"</item>
+        <item>"条件付き割引"</item>
+    </string-array>
+
+
+    <string-array name="gyeongbokgung_photo_content">
+        <item>"景春殿 前"</item>
+        <item>"Oesojubang 石垣の前に"</item>
+        <item>"お土産店の木の前で"</item>
+        <item>"勤政殿の前で"</item>
+        <item>"香原発の前で"</item>
+    </string-array>
+    <string-array name="changgyeonggung_photo_content">
+        <item>"迎春軒前"</item>
+        <item>"洋画あたりの階段"</item>
+        <item>"京春前裏道で"</item>
+        <item>"迎春軒隣で bigstone"</item>
+        <item>"明政殿前"</item>
+    </string-array>
+    <string-array name="deoksugung_photo_content">
+        <item>"階段の前で石造殿"</item>
+        <item>"すなわち、未加工砂糖後歩道の木の前で"</item>
+        <item>"すなわち、未加工砂糖後の遊歩道"</item>
+        <item>"咸寧殿前の遊歩道"</item>
+        <item>"噴水の前で"</item>
+    </string-array>
+    <string-array name="changdeokgung_photo_content">
+        <item>"宣政殿前"</item>
+        <item>"禁川橋前"</item>
+        <item>"ソングジョンジョン石垣で"</item>
+        <item>"仁政殿前"</item>
+        <item>"熙政堂前"</item>
+    </string-array>
+    <string-array name="changgyeonggung_store">
+        <item>"Youngwung"</item>
+    </string-array>
+    <string name="no_coupon_text">"所有クーポンはありません!"</string>
+    <string-array name="changgyeonggung_coupon_content">
+        <item>"飲料贈呈"</item>
+    </string-array>
+
+</resources>
