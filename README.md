@@ -21,6 +21,46 @@ SeoulGo Android App 개발
   
 **수상**  
 **2016 함께서울 앱 공모전 참여(순위 = 30위)**  
+
+## 위치기반서비스
+```java
+private void DeoksugungLocation(double latitude, double longitude) {
+        ArrayList<Integer> insideDeoksugung_List = new ArrayList<>();
+        Cursor cursor = liteDatabase.query(Contact.USER_TABLE_NAME[3], null, null, null, null, null, null);  //덕수궁
+        try {
+            while (cursor.moveToNext()) {
+                int number = Integer.parseInt(cursor.getString(1)); // number
+                String puzzle_flag = cursor.getString(2);
+                if (puzzle_flag.equals("off")) {
+                    Log.e(TAG, "위치=" + Contact.Deoksugung[number] +
+                            " 거리=" + distance(Contact.Deoksugung_Lat[number], Contact.Deoksugung_Lon[number], latitude, longitude));
+                    if (distance(Contact.Deoksugung_Lat[number], Contact.Deoksugung_Lon[number], latitude, longitude) <= 20) {
+                        if (!insideDeoksugung_List.contains(number)) { //20m안일떄 퍼즐생성!
+                            insideDeoksugung_List.add(number);
+                        }
+                    } else {
+                        if (insideDeoksugung_List.contains(number)) { // 20m 밖일때 퍼즐 제거!
+                            insideDeoksugung_List.remove(number);
+                        }
+                    }
+                }
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            cursor.close();
+        }
+        if (insideDeoksugung_List.size() > 0) {
+            notiFication(insideDeoksugung_List.size(), "덕수궁");
+            Intent notiIntent = new Intent(Contact.NOTI_Deoksugung);
+            notiIntent.putIntegerArrayListExtra(Contact.NOTI_Deoksugung_LIST, insideDeoksugung_List);
+            sendBroadcast(notiIntent);
+        } else {
+            Intent notiIntent = new Intent(Contact.NOTI_Deoksugung_LIST_OUTSIDE);
+            sendBroadcast(notiIntent);
+        }
+    }
+```
   
 ## 이미지  
  
